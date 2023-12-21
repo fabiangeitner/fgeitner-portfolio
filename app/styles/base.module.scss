@@ -1,0 +1,11 @@
+@import "./variables.module.scss";
+
+.headline {
+  color: $color-heading;
+  margin-bottom: 16px;
+}
+
+.paragraph {
+  color: $color-primary;
+  margin-bottom: 8px;
+}
